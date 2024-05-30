@@ -1,0 +1,5 @@
+pip install graphene==3.3
+pip install graphql-server-core==2.*
+pip install Flask==2.2.2
+pip install Flask-GraphQL==2.0.1
+pip install Werkzeug==2.2.2
